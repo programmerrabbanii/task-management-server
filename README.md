@@ -3,8 +3,8 @@ JobTask Backend is the powerhouse behind TaskMate, handling task management, aut
 
 
 ## 🔗 Live API
-- **FrontendUi:** [https://job-task-13f1d.web.app/](#)
-- **Backend:** [https://task-mate-server-gold.vercel.app/](#)
+- **FrontendUi:** [https://task-management-applicat-8153c.web.app](#)
+- **Backend:** [https://job-task-server-swart.vercel.app](#)
 
 ## ✨ Features
 - User authentication with JWT
