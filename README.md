@@ -1,5 +1,6 @@
- # JobTask Backend
-JobTask Backend is the server-side implementation for the TaskMate application, providing APIs for task management, authentication, and real-time updates.
+ # Task Management Backend
+JobTask Backend is the powerhouse behind TaskMate, handling task management, authentication, and real-time updates seamlessly.
+
 
 ## 🔗 Live API
 - **FrontendUi:** [https://job-task-13f1d.web.app/](#)
@@ -9,7 +10,7 @@ JobTask Backend is the server-side implementation for the TaskMate application, 
 - User authentication with JWT
 - CRUD operations for tasks
 - Real-time task updates
-- Secure API with CORS enabled
+
 
 ## 🛠️ Technologies Used
 - Node.js
@@ -27,13 +28,6 @@ git clone <repository-url>
 ```bash
 cd backend
 npm install
-```
-### Set up environment variables:
-Create a `.env` file in the `backend` directory and add the following:
-```
-PORT=5000
-MONGO_URI=<your-mongodb-connection-string>
-JWT_SECRET=<your-jwt-secret>
 ```
 ### Run the server:
 ```bash
